@@ -3,3 +3,10 @@ description: Reference material supporting the roles within NBBC's Media Team
 theme: just-the-docs
 
 url: https://nbbcmedia.github.io/nbbcmedia
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
