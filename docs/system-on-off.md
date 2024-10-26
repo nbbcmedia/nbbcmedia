@@ -1,6 +1,6 @@
 ---
 title: System On/Off
-layout: Page
+layout: page
 ---
 
 System On/Off
