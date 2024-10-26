@@ -19,3 +19,4 @@ nav_order: 2
 1. GoStream **ON**
 1. GoStream **PC IN PROGRAM**
 1. PC > OBS > Right-click program window > Fullscreen projector **GOSTREAM SELECTED**
+{: .ml-4}
