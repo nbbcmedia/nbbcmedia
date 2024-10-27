@@ -56,6 +56,6 @@ nav_order: 2
 6. Mixer **OFF** (Phantom, then Main)
 7. PC **OFF**
 8. Master **OFF**
-9. Batteries **CHARGING**<br>
-Lav batteries<br>
-Headset batteries
+9. Batteries **CHARGING**
+   1. Lav batteries
+   2. Headset batteries
