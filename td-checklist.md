@@ -41,20 +41,21 @@ nav_order: 2
 20. Mixer > PC Channel **AUDIBLE** after piano player stops
 
 # SYSTEM SHUTDOWN
-1. Space remaining on SD card **> 1.5 HRS**
-2. 1. If space remainaing is < 1.5 hrs:
-   2. GoStream **OFF**
-   3. Transfer SD card from GoStream to PC
-   4. Transfer files from SD CARD to Sermon folder on PC Desktop
-   5. Delete the files you transferred **from the SD card only**
-   6. Eject SD card from PC **using the software eject functionality**
-   7. Transfer SD card from PC to GoStream
+1. Space remaining on SD card **> 1.5 HRS**<br><br>
+**If space remainaing is < 1.5 hrs:**
+   1. GoStream **OFF**
+   2. Transfer SD card from GoStream to PC
+   3. Transfer files from SD CARD to Sermon folder on PC Desktop
+   4. Delete the files you transferred **from the SD card only**
+   5. Eject SD card from PC **using the software eject functionality**
+   6. Transfer SD card from PC to GoStream
+
 3. GoStream **OFF**
 4. Cameras **OFF**
 5. Amp **OFF**
 6. Mixer **OFF** (Phantom, then Main)
 7. PC **OFF**
 8. Master **OFF**
-9. Batteries **CHARGING**
-10. 1. Lav batteries
-    2. Headset batteries
+9. Batteries **CHARGING**<br>
+Lav batteries<br>
+Headset batteries
