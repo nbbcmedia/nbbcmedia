@@ -1,7 +1,7 @@
 title: NBBC Media Docs
 description: Reference material supporting the roles within NBBC's Media Team
 theme: just-the-docs
-logo: "https://nbbc.imgix.net/base/home-jumbotron.jpg?auto=compress&fm=webp"
+logo: "/asset/NBBC-Docs-Logo1.png"
 
 url: https://nbbcmedia.github.io/nbbcmedia
 permalink: pretty
