@@ -3,6 +3,7 @@ description: Reference material supporting the roles within NBBC's Media Team
 theme: just-the-docs
 
 url: https://nbbcmedia.github.io/nbbcmedia
+permalink: pretty
 
 defaults:
   - scope:
