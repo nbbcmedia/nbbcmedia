@@ -1,5 +1,5 @@
 ---
-title: OBSz
+title: OBS
 layout: page
 nav_order: 5
 ---
