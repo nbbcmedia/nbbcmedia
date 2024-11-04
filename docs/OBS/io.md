@@ -6,4 +6,4 @@ nav_order: 1
 ---
 
 # I/O for Open Broadcaster Software (OBS)
-What's I/O (Input/Output)?
+OBS uses a combination of "Scenes" and "Sources" to make up its pool of inputs.
