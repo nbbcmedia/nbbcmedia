@@ -23,7 +23,7 @@ nav_order: 2
 # PRODUCTION STANDARDS
 1. Time between GoStream powering on, and program sending slideshow + music **MINIMAL**
 2. Background music never stops
-3. To "mute" the background music, slide the PC channel fader down to 0% **DO NOT MUTE PC CHANNEL USING THE MUTE KEY**
+   1. To "mute" the background music, slide the PC channel fader down to 0% **DO NOT MUTE PC CHANNEL USING THE MUTE KEY**
 6. Mixer > Mute groups > STREAM **UNMUTED** when Pastor starts announcements
 7. GoStream > AUTO DIP from PC to CAM for announcements
 8. GoStream > AUTO DIP from CAM to PC after announcements
