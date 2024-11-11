@@ -7,10 +7,10 @@ nav_order: 1
 
 # I/O for the Mackie DL1608
 
-{: .new }
-> NBBC Specific Information
+{: .new-title }
+> NBBC SPECIFIC INFO
 >
-> We typically only focus on these 6 inputs:
+> Important inputs:
 > 1. Piano Bass
 > 2. Piano Treble
 > 3. Piano Vox
