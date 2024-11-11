@@ -7,7 +7,7 @@ nav_order: 1
 
 # I/O for the Mackie DL1608
 
-{: .important }
+{: .new }
 > NBBC Specific Information
 >
 > We typically only focus on these 6 inputs:
