@@ -16,7 +16,7 @@ Obviously, the signal starts at the source. Whether that's a person's voice bein
 Imagine the signal traveling through the cable, into the floor, up the walls, and into the mixer's input jack.<br>
 From there, the signal continues into the board, and it encounters its first modifier (that we care about): EQ.
 
-#### EQ
+#### **EQ**
 Ignore the faint horizontal green line. This is the signal's "trim" and we keep it at the default configuration here.
 Moving on to the EQ box. This is where we shape the audio signal coming in through the input.
 
