@@ -8,7 +8,7 @@ nav_order: 2
 # Channel Strips on the Mackie DL1608
 
 ## Overview
-When you open the Master Fader app, the channel strips are the first thing you see. They take up the majority of the screen, and each one contains a number of controls available to you for each [input]({{ site.baseurl }}{% link docs/Mackie%20DL1608/io/#inputs %})
+When you open the Master Fader app, the channel strips are the first thing you see. They take up the majority of the screen, and each one contains a number of controls available to you for each input.
 
 {: .new-title }
 > NBBC SPECIFIC INFO
