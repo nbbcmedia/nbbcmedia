@@ -26,5 +26,6 @@ The Mackie DL1608 has a total of 8 outputs: 2 XLR, 6 TRS.
 The 2 XLR outputs feed into the power amplifier (Crown XLS 202, rack mounted). The power amp feeds into the main speakers in the sanctuary.
 
 The 6 TRS (Auxiliary) outputs feed into the infant nursery speaker and the GoStream mixer.
-What's unique about these 6 auxiliar outputs is the fact that the mixer can control the volumes of each channel indepentendtly on each output.
+
+What's unique about these 6 auxiliary outputs is the fact that the mixer can control the volumes of each channel indepentendtly on each output.
 For example, with this capability we can play background music over the main speakers at x volume, and through the GoStream output at y volume.
