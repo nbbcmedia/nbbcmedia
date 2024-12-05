@@ -22,23 +22,27 @@ nav_order: 2
 
 # PRODUCTION STANDARDS
 1. Time between GoStream powering on, and program sending slideshow + music **MINIMAL**
-2. Background music never stops
-   1. To "mute" the background music, slide the PC channel fader down to 0% **DO NOT MUTE PC CHANNEL USING THE MUTE KEY**
+2. Background music never mutes (until preaching)
+   1. **NEVER MUTE PC CHANNEL**
+   1. To "mute" the background music, depending on the situartion, gently reduce:
+      1. PC channel fader<br>*or*
+      2. VLC volume 0% **DO NOT MUTE PC CHANNEL USING THE MUTE KEY**
+5. Reduce PC channel fader to OFF when congregational singing starts. (Background music still audible in nursery)
 6. Mixer > Mute groups > STREAM **UNMUTED** when Pastor starts announcements
-7. GoStream > AUTO DIP from PC to CAM for announcements
-8. GoStream > AUTO DIP from CAM to PC after announcements
-9. Mixer > Mute groups > STREAM **MUTED**
-10. GoStream > **REC** before Pastor starts preaching
-11. Mixer > Lavalier channel > **UNMUTED**
-12. Mixer > Mute groups > STREAM **UNMUTED**
-13. GoStream > AUTO DIP from PC to CAM
-14. PC > OnTime > Camera 1/2 **START**
-15. MIXER > Pulpit channel > **MUTED** after unmuting Lavalier
-16. GoStream > CUT between cameras **EVERY 5 MIN**
-17. GoStream > AUTO DIP from CAM to STILL 2 when Pastor says "Let's all stand"
-18. Mixer > Mute groups > STREAM **MUTED** AFTER Pastor finishes post-service monologue OR calls for someone to close in prayer
-19. GoStream > **END REC** 5-10s after muting
-20. Mixer > PC Channel **AUDIBLE** after piano player stops
+8. GoStream > AUTO DIP from PC to CAM for announcements (Background music NOT audible in nursery)
+9. GoStream > AUTO DIP from CAM to PC after announcements (Background music audible in nursery)
+10. Mixer > Mute groups > STREAM **MUTED**
+11. GoStream > **REC** before Pastor starts preaching
+12. Mixer > Lavalier channel > **UNMUTED**
+13. Mixer > Mute groups > STREAM **UNMUTED**
+14. GoStream > AUTO DIP from PC to CAM (Background music NOT audible in nursery)
+15. PC > OnTime > Camera 1/2 **START**
+16. MIXER > Pulpit channel > **MUTED** after unmuting Lavalier
+17. GoStream > CUT between cameras **EVERY 5 MIN**
+18. GoStream > AUTO DIP from CAM to STILL 2 when Pastor says "Let's all stand"
+19. Mixer > Mute groups > STREAM **MUTED** AFTER Pastor finishes post-service monologue OR calls for someone to close in prayer
+20. GoStream > **END REC** 5-10s after muting
+21. Mixer > PC Channel **AUDIBLE** after piano player stops
 
 # SYSTEM SHUTDOWN
 1. Space remaining on SD card **> 1.5 HRS**<br><br>
