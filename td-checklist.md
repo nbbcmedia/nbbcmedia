@@ -3,6 +3,11 @@ title: TD Checklist
 layout: page
 nav_order: 2
 ---
+{: .new-title }
+> KEY NOTES
+>
+> 1. Enable multi-select for mute groups
+> 2. DO NOT mute the Computer channel using the mute key. Use fader
 
 # SYSTEM START
 1. Cameras **ON**
