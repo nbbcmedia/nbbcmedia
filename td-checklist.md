@@ -48,7 +48,8 @@ nav_order: 2
 18. GoStream > AUTO DIP from CAM to STILL 2 when Pastor says "Let's all stand"
 19. Mixer > Mute groups > STREAM **MUTED** AFTER Pastor finishes post-service monologue OR calls for someone to close in prayer
 20. GoStream > **END REC** 5-10s after muting
-21. Mixer > PC Channel **AUDIBLE** after piano player stops
+21. Mixer > Lav Channel **MUTED** after Pastor dismisses congregation
+22. Mixer > PC Channel **AUDIBLE** after piano player stops
 
 # SYSTEM SHUTDOWN
 1. Space remaining on SD card **> 1.5 HRS**<br><br>
