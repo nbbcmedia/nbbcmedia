@@ -6,8 +6,8 @@ nav_order: 2
 {: .new-title }
 > KEY NOTES
 >
-> 1. Enable multi-select for mute groups
-> 2. DO NOT mute the Computer channel using the mute key. Use fader
+> 1. Enable multi-select for mute groups.
+> 2. DO NOT mute the Computer channel using the mute key. Use fader instead.
 
 # SYSTEM START
 1. Cameras **ON**
@@ -19,29 +19,29 @@ nav_order: 2
 1. PC **ON**
 1. PC > VLC Media Player > Open folder > FELLOWSHIP MUSIC > *any* **ALBUM PLAYING**
 1. VLC > Volume 75% (Do not exceed)
-1. Mixer > PC Channel **AUDIBLE OVER PA**
+1. Mixer > PC Channel **MUSIC PLAYING OVER PA**
 1. PC > OBS > Pre-Service **IN PROGRAM**
 1. GoStream > SD card **INSERTED**
 1. GoStream **ON**
-1. GoStream **PC IN PROGRAM**
+1. GoStream **PC IN PROGRAM** (music audible)
 1. PC > OBS > Right-click program window > Fullscreen projector **GOSTREAM SELECTED**
 
 # PRODUCTION STANDARDS
-1. Time between GoStream powering on, and program sending slideshow + music **MINIMAL**
-2. Background music never mutes (until preaching)
+1. Time between GoStream ON, and program sending slideshow + music **MINIMAL**
+2. VLC music never stops
    1. **NEVER MUTE PC CHANNEL**
-   1. To "mute" the background music, depending on the situartion, gently reduce:
-      1. PC channel fader<br>*or*
-      2. VLC volume 0% **DO NOT MUTE PC CHANNEL USING THE MUTE KEY**
-5. Reduce PC channel fader to OFF when congregational singing starts. (Background music still audible in nursery)
+   1. To silence the VLC music in the sanctuary and everywhere else respectively, gently reduce:
+      1. Main mix PC channel fader (for sanctuary only)<br>*or*
+      2. VLC volume 0% (for everywhere else)<br>**DO NOT MUTE PC CHANNEL USING THE MUTE KEY**
+5. Mixer > PC Channel > fade to OFF when congregational singing starts. (VLC music still audible in nursery)
 6. Mixer > Mute groups > STREAM **UNMUTED** when Pastor starts announcements
-8. GoStream > AUTO DIP from PC to CAM for announcements (Background music NOT audible in nursery)
-9. GoStream > AUTO DIP from CAM to PC after announcements (Background music audible in nursery)
+8. PC > VLC volume 0%<br>(Announcements audible in nursery)<br>(Background music NOT audible in nursery)
+9. PC > VLC volume 75%<br>(Background music audible in nursery)
 10. Mixer > Mute groups > STREAM **MUTED**
 11. GoStream > **REC** before Pastor starts preaching
 12. Mixer > Lavalier channel > **UNMUTED**
 13. Mixer > Mute groups > STREAM **UNMUTED**
-14. GoStream > AUTO DIP from PC to CAM (Background music NOT audible in nursery)
+14. GoStream > AUTO DIP from PC to CAM<br>(Preaching audible in nursery)<br>(Background music NOT audible in nursery)
 15. PC > OnTime > Camera 1/2 **START**
 16. MIXER > Pulpit channel > **MUTED** after unmuting Lavalier
 17. GoStream > CUT between cameras **EVERY 5 MIN**
